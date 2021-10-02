@@ -4,7 +4,7 @@ Waterfall adalah salah satu mppl klasik atau tradisional yang digunakan untuk pe
 Metode ini disebut waterfall karena prosesnya mengalir berurutan seperti air terjun.
 Metode ini harus dilakukan secara berurutan sesuai dengan tahap yang ada, dari tahap satu ke tahap dua lalu tahap tiga dan seterusnya.
 
-![waterfall](images/waterfall.PNG)
+![waterfall](images/waterfall.png)
 
 ## Tahap pengembangan metode waterfall:
 

@@ -2,7 +2,7 @@
 
 Extreme Programming (XP) merupakan metode yang paling banyak digunakan untuk pengembangan perangkat lunak cepat. Alasan menggunakan metode Extreme Programming (XP) karena sifat dari aplikasi yang di kembangkan dengan cepat melalui tahapan-tahapan yang ada meliputi : Planning/Perencanaan, Design/Perancangan, Coding/Pengkodean dan Testing/Pengujian. (Pressman, 2012:88).
 
-![xp](images/extreme.PNG)
+![xp](images/extreme.png)
 
 ## tahapan Extreme Programming
 
